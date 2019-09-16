@@ -1,5 +1,13 @@
 h1 {
+	color: red;
 	font-size: 60px;
-	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Clifton_Suspension_Bridge_2018.jpg/1599px-Clifton_Suspension_Bridge_2018.jpg');
+	
 }
 
+.jumbotron {
+	display: flex;
+	align-items: center;
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Clifton_Suspension_Bridge_2018.jpg/1599px-Clifton_Suspension_Bridge_2018.jpg');
+	background-size: cover;
+	height: 500px;
+}
